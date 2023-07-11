@@ -2,6 +2,6 @@
 
 int main(int argc,char const *argv[])
 {
-	printf("你好，世界!\n");
+	printf("I love you,C language!\n");
 	return 0;
-} 
+}
